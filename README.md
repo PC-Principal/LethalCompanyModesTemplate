@@ -5,18 +5,18 @@ This repository is a basic template for creating mods on Lethal Company game, it
 
 ## Links for creating mods in Lethal Company
 
-Cloned from starting repository: https://github.com/LethalCompany/LethalCompanyTemplate
+**Cloned from starting repository**: https://github.com/LethalCompany/LethalCompanyTemplate
 
-Youtube mod creating example (using Visual Studio): https://www.youtube.com/watch?v=4Q7Zp5K2ywI&t=1092s
+**Youtube mod creating example (using Visual Studio)**: https://www.youtube.com/watch?v=4Q7Zp5K2ywI&t=1092s
 
-Visual Studio Community edition (free IDE): https://visualstudio.microsoft.com/ru/vs/community/
+**Visual Studio Community edition (free IDE)**: https://visualstudio.microsoft.com/ru/vs/community/
 
-Rider (IDE): https://www.jetbrains.com/rider/
+**Rider (IDE)**: https://www.jetbrains.com/rider/
 
-ILSpy (Decompiling dll module for Visual Studio): https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy
+**ILSpy (Decompiling dll module for Visual Studio)**: https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy
 
-dotPeek (Decompiling dll IDE - free): https://www.jetbrains.com/ru-ru/decompiler/
+**dotPeek (Decompiling dll IDE - free)**: https://www.jetbrains.com/ru-ru/decompiler/
 
-Developer Guide for Modding: https://lethal.wiki/dev/starting-a-mod
+**Developer Guide for Modding**: https://lethal.wiki/dev/starting-a-mod
 
 
