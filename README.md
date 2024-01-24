@@ -15,6 +15,8 @@ This repository is a basic template for creating mods on Lethal Company game, it
 
 **ILSpy (Decompiling dll module for Visual Studio)**: https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy
 
+**ILSpy for VS 2022 (Decompiling dll module for Visual Studio)**: https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.ILSpy2022
+
 **dotPeek (Decompiling dll IDE - free)**: https://www.jetbrains.com/ru-ru/decompiler/
 
 **Developer Guide for Modding**: https://lethal.wiki/dev/starting-a-mod
